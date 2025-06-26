@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72632325-41A7-486C-A2EF-F5EB431D8167}|LabWork\\LabWork.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork10\\labwork\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72632325-41A7-486C-A2EF-F5EB431D8167}|LabWork\\LabWork.csproj|solutionrelative:labwork\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72632325-41A7-486C-A2EF-F5EB431D8167}|LabWork\\LabWork.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork10\\labwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72632325-41A7-486C-A2EF-F5EB431D8167}|LabWork\\LabWork.csproj|solutionrelative:labwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72632325-41A7-486C-A2EF-F5EB431D8167}|LabWork\\LabWork.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork10\\labwork\\stringcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72632325-41A7-486C-A2EF-F5EB431D8167}|LabWork\\LabWork.csproj|solutionrelative:labwork\\stringcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72632325-41A7-486C-A2EF-F5EB431D8167}|LabWork\\LabWork.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork10\\labwork\\descendingcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72632325-41A7-486C-A2EF-F5EB431D8167}|LabWork\\LabWork.csproj|solutionrelative:labwork\\descendingcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 288,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Applicant.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork10\\LabWork\\Applicant.cs",
+              "RelativeDocumentMoniker": "LabWork\\Applicant.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork10\\LabWork\\Applicant.cs",
+              "RelativeToolTip": "LabWork\\Applicant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:23:35.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork10\\LabWork\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork10\\LabWork\\Program.cs",
+              "RelativeToolTip": "LabWork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:23:36.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringComparer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork10\\LabWork\\StringComparer.cs",
+              "RelativeDocumentMoniker": "LabWork\\StringComparer.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork10\\LabWork\\StringComparer.cs",
+              "RelativeToolTip": "LabWork\\StringComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:23:37.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DescendingComparer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork10\\LabWork\\DescendingComparer.cs",
+              "RelativeDocumentMoniker": "LabWork\\DescendingComparer.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork10\\LabWork\\DescendingComparer.cs",
+              "RelativeToolTip": "LabWork\\DescendingComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:23:36.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork34\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork34\obj\Debug\net9.0-windows\LabWork34_MarkupCompile.cache

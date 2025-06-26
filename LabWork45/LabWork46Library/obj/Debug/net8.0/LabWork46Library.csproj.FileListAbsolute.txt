@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\LabWork46Library\bin\Debug\net8.0\LabWork46Library.deps.json
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\LabWork46Library\bin\Debug\net8.0\LabWork46Library.dll
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\LabWork46Library\bin\Debug\net8.0\LabWork46Library.pdb
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\LabWork46Library\obj\Debug\net8.0\LabWork46Library.csproj.AssemblyReference.cache
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\LabWork46Library\obj\Debug\net8.0\LabWork46Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\LabWork46Library\obj\Debug\net8.0\LabWork46Library.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\LabWork46Library\obj\Debug\net8.0\LabWork46Library.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\LabWork46Library\obj\Debug\net8.0\LabWork46Library.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\LabWork46Library\obj\Debug\net8.0\LabWork46Library.sourcelink.json
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\LabWork46Library\obj\Debug\net8.0\LabWork46Library.dll
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\LabWork46Library\obj\Debug\net8.0\refint\LabWork46Library.dll
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\LabWork46Library\obj\Debug\net8.0\LabWork46Library.pdb
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\LabWork46Library\obj\Debug\net8.0\ref\LabWork46Library.dll

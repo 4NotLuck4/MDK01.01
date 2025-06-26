@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86DB673E-82E7-4986-B941-CECD44364C9D}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork45\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DB673E-82E7-4986-B941-CECD44364C9D}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6707007-708C-43AD-AD23-3D5C820E2153}|LabWork46\\LabWork46.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork45\\labwork46\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6707007-708C-43AD-AD23-3D5C820E2153}|LabWork46\\LabWork46.csproj|solutionrelative:labwork46\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3560CC9C-CF07-488C-94E7-14C486091617}|LabWork46Library\\LabWork46Library.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork45\\labwork46library\\sqlitedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3560CC9C-CF07-488C-94E7-14C486091617}|LabWork46Library\\LabWork46Library.csproj|solutionrelative:labwork46library\\sqlitedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3560CC9C-CF07-488C-94E7-14C486091617}|LabWork46Library\\LabWork46Library.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork45\\labwork46library\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3560CC9C-CF07-488C-94E7-14C486091617}|LabWork46Library\\LabWork46Library.csproj|solutionrelative:labwork46library\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3560CC9C-CF07-488C-94E7-14C486091617}|LabWork46Library\\LabWork46Library.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork45\\labwork46library\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3560CC9C-CF07-488C-94E7-14C486091617}|LabWork46Library\\LabWork46Library.csproj|solutionrelative:labwork46library\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182F37E1-ED7C-4379-A2AB-B3BF20A9B48B}|SQLiteDataBase\\SQLiteDataBase.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork45\\sqlitedatabase\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182F37E1-ED7C-4379-A2AB-B3BF20A9B48B}|SQLiteDataBase\\SQLiteDataBase.csproj|solutionrelative:sqlitedatabase\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182F37E1-ED7C-4379-A2AB-B3BF20A9B48B}|SQLiteDataBase\\SQLiteDataBase.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork45\\sqlitedatabase\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182F37E1-ED7C-4379-A2AB-B3BF20A9B48B}|SQLiteDataBase\\SQLiteDataBase.csproj|solutionrelative:sqlitedatabase\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 288,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\SQLiteDataBase\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "SQLiteDataBase\\DataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\SQLiteDataBase\\DataAccessLayer.cs",
+              "RelativeToolTip": "SQLiteDataBase\\DataAccessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:19:13.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\SQLiteDataBase\\Game.cs",
+              "RelativeDocumentMoniker": "SQLiteDataBase\\Game.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\SQLiteDataBase\\Game.cs",
+              "RelativeToolTip": "SQLiteDataBase\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:19:11.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\LabWork46Library\\Game.cs",
+              "RelativeDocumentMoniker": "LabWork46Library\\Game.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\LabWork46Library\\Game.cs",
+              "RelativeToolTip": "LabWork46Library\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:19:07.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\LabWork46Library\\IDatabase.cs",
+              "RelativeDocumentMoniker": "LabWork46Library\\IDatabase.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\LabWork46Library\\IDatabase.cs",
+              "RelativeToolTip": "LabWork46Library\\IDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:19:05.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqliteDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\LabWork46Library\\SqliteDatabase.cs",
+              "RelativeDocumentMoniker": "LabWork46Library\\SqliteDatabase.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\LabWork46Library\\SqliteDatabase.cs",
+              "RelativeToolTip": "LabWork46Library\\SqliteDatabase.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:19:03.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\LabWork46\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork46\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\LabWork46\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork46\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T19:18:49.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork45\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:18:36.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

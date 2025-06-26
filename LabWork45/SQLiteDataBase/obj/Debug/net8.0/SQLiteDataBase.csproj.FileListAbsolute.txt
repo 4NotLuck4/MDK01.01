@@ -1,0 +1,13 @@
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\SQLiteDataBase\bin\Debug\net8.0\SQLiteDataBase.deps.json
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\SQLiteDataBase\bin\Debug\net8.0\SQLiteDataBase.dll
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\SQLiteDataBase\bin\Debug\net8.0\SQLiteDataBase.pdb
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\SQLiteDataBase\obj\Debug\net8.0\SQLiteDataBase.csproj.AssemblyReference.cache
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\SQLiteDataBase\obj\Debug\net8.0\SQLiteDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\SQLiteDataBase\obj\Debug\net8.0\SQLiteDataBase.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\SQLiteDataBase\obj\Debug\net8.0\SQLiteDataBase.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\SQLiteDataBase\obj\Debug\net8.0\SQLiteDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\SQLiteDataBase\obj\Debug\net8.0\SQLiteDataBase.sourcelink.json
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\SQLiteDataBase\obj\Debug\net8.0\SQLiteDataBase.dll
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\SQLiteDataBase\obj\Debug\net8.0\refint\SQLiteDataBase.dll
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\SQLiteDataBase\obj\Debug\net8.0\SQLiteDataBase.pdb
+C:\Users\Виктор\Desktop\Все нужное и ненужное\Учеба\Коды\От Никиты\m\LabWork45\SQLiteDataBase\obj\Debug\net8.0\ref\SQLiteDataBase.dll

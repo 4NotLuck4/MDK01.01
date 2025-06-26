@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork47\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B80BC002-622E-4E69-812B-6545093CADEC}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork47\\databaselibrary\\databaseconnections\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80BC002-622E-4E69-812B-6545093CADEC}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\databaseconnections\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80BC002-622E-4E69-812B-6545093CADEC}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork47\\databaselibrary\\databaseconnections\\mssqlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80BC002-622E-4E69-812B-6545093CADEC}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\databaseconnections\\mssqlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80BC002-622E-4E69-812B-6545093CADEC}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork47\\databaselibrary\\databaseconnections\\sqlitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80BC002-622E-4E69-812B-6545093CADEC}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\databaseconnections\\sqlitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80BC002-622E-4E69-812B-6545093CADEC}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork47\\databaselibrary\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80BC002-622E-4E69-812B-6545093CADEC}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80BC002-622E-4E69-812B-6545093CADEC}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork47\\databaselibrary\\repositories\\gamesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80BC002-622E-4E69-812B-6545093CADEC}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\repositories\\gamesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80BC002-622E-4E69-812B-6545093CADEC}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0443\u0447\u0435\u0431\u0430\\\u043A\u043E\u0434\u044B\\\u043E\u0442 \u043D\u0438\u043A\u0438\u0442\u044B\\m\\labwork47\\databaselibrary\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80BC002-622E-4E69-812B-6545093CADEC}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork47\\DataBaseLibrary\\DatabaseConnections\\IDbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "DataBaseLibrary\\DatabaseConnections\\IDbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork47\\DataBaseLibrary\\DatabaseConnections\\IDbConnectionFactory.cs",
+              "RelativeToolTip": "DataBaseLibrary\\DatabaseConnections\\IDbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:26:14.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSSqlFactory.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork47\\DataBaseLibrary\\DatabaseConnections\\MSSqlFactory.cs",
+              "RelativeDocumentMoniker": "DataBaseLibrary\\DatabaseConnections\\MSSqlFactory.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork47\\DataBaseLibrary\\DatabaseConnections\\MSSqlFactory.cs",
+              "RelativeToolTip": "DataBaseLibrary\\DatabaseConnections\\MSSqlFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:26:13.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqliteFactory.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork47\\DataBaseLibrary\\DatabaseConnections\\SqliteFactory.cs",
+              "RelativeDocumentMoniker": "DataBaseLibrary\\DatabaseConnections\\SqliteFactory.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork47\\DataBaseLibrary\\DatabaseConnections\\SqliteFactory.cs",
+              "RelativeToolTip": "DataBaseLibrary\\DatabaseConnections\\SqliteFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:26:12.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork47\\DataBaseLibrary\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "DataBaseLibrary\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork47\\DataBaseLibrary\\Models\\Game.cs",
+              "RelativeToolTip": "DataBaseLibrary\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:26:10.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GamesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork47\\DataBaseLibrary\\Repositories\\GamesRepository.cs",
+              "RelativeDocumentMoniker": "DataBaseLibrary\\Repositories\\GamesRepository.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork47\\DataBaseLibrary\\Repositories\\GamesRepository.cs",
+              "RelativeToolTip": "DataBaseLibrary\\Repositories\\GamesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:26:02.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GamesService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork47\\DataBaseLibrary\\Services\\GamesService.cs",
+              "RelativeDocumentMoniker": "DataBaseLibrary\\Services\\GamesService.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0412\u0441\u0435 \u043D\u0443\u0436\u043D\u043E\u0435 \u0438 \u043D\u0435\u043D\u0443\u0436\u043D\u043E\u0435\\\u0423\u0447\u0435\u0431\u0430\\\u041A\u043E\u0434\u044B\\\u041E\u0442 \u041D\u0438\u043A\u0438\u0442\u044B\\m\\LabWork47\\DataBaseLibrary\\Services\\GamesService.cs",
+              "RelativeToolTip": "DataBaseLibrary\\Services\\GamesService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:25:57.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
